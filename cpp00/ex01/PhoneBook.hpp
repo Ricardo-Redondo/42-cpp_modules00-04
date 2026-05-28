@@ -3,16 +3,16 @@
 /*                                                        :::      ::::::::   */
 /*   PhoneBook.hpp                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsao-pay <rsao-pay@student.42lisboa.com    +#+  +:+       +#+        */
+/*   By: rsao-pay <rsao-pay@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/13 16:54:40 by rsao-pay          #+#    #+#             */
-/*   Updated: 2026/05/15 11:07:15 by rsao-pay         ###   ########.fr       */
+/*   Updated: 2026/05/28 15:29:51 by rsao-pay         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #pragma once
-#ifndef PHONEBOOK
-# define PHONEBOOK
+#ifndef PHONEBOOK_H
+# define PHONEBOOK_H
 
 # include "Contact.hpp"
 # include <stdlib.h>

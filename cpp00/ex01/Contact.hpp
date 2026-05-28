@@ -3,16 +3,16 @@
 /*                                                        :::      ::::::::   */
 /*   Contact.hpp                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsao-pay <rsao-pay@student.42lisboa.com    +#+  +:+       +#+        */
+/*   By: rsao-pay <rsao-pay@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/13 16:54:38 by rsao-pay          #+#    #+#             */
-/*   Updated: 2026/05/14 15:32:39 by rsao-pay         ###   ########.fr       */
+/*   Updated: 2026/05/28 15:29:56 by rsao-pay         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #pragma once
-#ifndef CONTACT
-# define CONTACT
+#ifndef CONTACT_H
+# define CONTACT_H
 
 # include <iostream>
 # include <string>
